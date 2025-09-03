@@ -1,45 +1,42 @@
 # Hi there, I'm Mohammad Mahir Ashraf Mahir 👋
 
-I'm a **Full Stack Developer in progress** 👨‍💻  
-Passionate about **Web Development** and **Cybersecurity** 🔒  
-Open to collaboration and learning together! 🚀
+🎓 I'm a **Full Stack Developer in progress**  
+🧠 Passionate about **Web Development** and **Cybersecurity**  
+🤝 Open to learning, collaborating and growing together!
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+
+- 🌱 Currently learning **HTML, CSS, JavaScript, and Python**
+- 🔭 Exploring the world of **Full Stack Development**
+- 💬 Ask me anything — I'm always ready to learn something new
+- 📧 Reach me at: **mohammadmahirashrafmahir@gmail.com**
+
+---
+
+## 🛠️ Tech Stack I'm Learning
 
 - 💻 Languages: HTML, CSS, JavaScript, Python
-- 🌐 Frameworks: React, Node.js, Express.js
-- 🛢️ Database: MongoDB, MySQL
-- ⚙️ Tools: Git, GitHub, VS Code, Postman
-- 🌍 Deployment: Vercel, Netlify, GitHub Pages
+- 🌐 Frontend: Bootstrap, Tailwind CSS *(soon!)*
+- ⚙️ Tools: Git, GitHub, VS Code
+- 📚 Currently learning: React, Node.js, MongoDB
 
 ---
 
-## 📂 Featured Projects
+## 📈 GitHub Stats
 
-🔸 [Project Name](GitHub Repo Link) – Short description of what the project does  
-🔸 [Another Project](GitHub Repo Link) – Another quick summary
+![Mahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahir-ashraf&show_icons=true&theme=dracula)
 
-> Want to see more? Check out my [repositories](https://github.com/mahir-ashraf?tab=repositories)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if you have one)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahir-ashraf&layout=compact&theme=dracula)
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 🔗 Let's Connect
 
-![Mahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahir-ashraf&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahir-ashraf&layout=compact&theme=radical)
+- 📧 **Email:** mohammadmahirashrafmahir@gmail.com  
+- 🌍 *More social links coming soon...*
 
 ---
 
-_Thank you for visiting my profile!_
-
+_Thanks for visiting my profile! Stay tuned — projects coming soon... 🚀_
